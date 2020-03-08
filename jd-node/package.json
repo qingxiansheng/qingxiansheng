@@ -1,0 +1,20 @@
+{
+  "name": "jd",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[A\u001b[C\u001b[\u001b[C\u001b[C\u001b[C\u001b[\u001b[C\u001b[C\u001b()\u001b[Djd-node)\u001b[B\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b[D\u001b[D\u001b[D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "watch": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.8.4"
+  }
+}
